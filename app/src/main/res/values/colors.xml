@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFf</color>
+    <color name="love">#764D5D</color>
+    <color name="blue">#02203A</color>
+    <color name="orange">#F49540</color>
+    <color name="silver">#878787</color>
 </resources>
